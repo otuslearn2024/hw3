@@ -1,0 +1,1 @@
+#include "golditem.h"
